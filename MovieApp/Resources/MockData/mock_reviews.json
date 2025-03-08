@@ -1,0 +1,24 @@
+{
+  "reviews": [
+    {
+      "imageName": "reviewer1",
+      "text": "🎬 Gran película, la mejor que he visto en años."
+    },
+    {
+      "imageName": "reviewer2",
+      "text": "👍 Me encantó la historia, pero el final fue predecible."
+    },
+    {
+      "imageName": "reviewer3",
+      "text": "💥 Acción sin parar, efectos visuales increíbles."
+    },
+    {
+      "imageName": "reviewer4",
+      "text": "😂 Muy divertida, me reí mucho con los personajes."
+    },
+    {
+      "imageName": "reviewer5",
+      "text": "😢 Me hizo llorar, una historia muy emotiva."
+    }
+  ]
+}

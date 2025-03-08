@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Película Mock 1",
+      "overview": "Esta es una descripción de prueba para la película 1.",
+      "poster_path": null,
+      "vote_average": 8.5
+    },
+    {
+      "id": 2,
+      "title": "Película Mock 2",
+      "overview": "Descripción de prueba para la película 2.",
+      "poster_path": null,
+      "vote_average": 7.8
+    },
+    {
+      "id": 3,
+      "title": "Película Mock 3",
+      "overview": "Otra descripción de prueba para la película 3.",
+      "poster_path": null,
+      "vote_average": 9.0
+    }
+  ]
+}
