@@ -28,10 +28,15 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         //let homeViewController = HomeViewController(movieService: movieService)
         //let navigationController = UINavigationController(rootViewController: homeViewController)
         //window?.rootViewController = navigationController
-        
-        window?.rootViewController = MainTabBarController()
-        
+        let splashViewController = SplashViewController()
+        window?.rootViewController = splashViewController
         window?.makeKeyAndVisible()
+        
+        DispatchQueue.main.asyncAfter(deadline: .now() + 3.0) {
+            let mainViewController = MainTabBarController()
+            self.window?.rootViewController = mainViewController
+            self.window?.makeKeyAndVisible()
+        }
         
     }
     

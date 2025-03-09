@@ -2,16 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Esta aplicación necesita acceder a tu ubicación en segundo plano para registrar tu ubicación en Firebase.</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Esta aplicación necesita acceder a tu ubicación para mostrar información relevante en el mapa.</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Necesitamos acceso a la galería para poder cargar archivos y cambiar tu foto de perfil.</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Necesitamos permisos para guardar tu foto de perfil en la galería.</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Necesitamos acceso a la cámara para poder cambiar la foto de perfil.</string>
 	<key>TMDB_API_KEY</key>
 	<string>eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3Y2JiMjk2Y2VlNzQ0MWUyMmRlZmY1MGMwYzJiMjQ5MyIsIm5iZiI6MTY4Nzk4NDg1Ny4wNTIsInN1YiI6IjY0OWM5YWQ5MDkxZTYyMDEwYzEwNjNlNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NqVrSWuyQ_yLoaWOcLv6x8qYnSUl9NaCiMV33xbEAu8</string>
 	<key>UIApplicationSceneManifest</key>

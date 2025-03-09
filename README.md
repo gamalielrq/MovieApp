@@ -74,7 +74,8 @@ MovieApp ha sido desarrollada con un enfoque modular y escalable, permitiendo fu
 📌 Próximo paso: Implementar Firebase Authentication para que los usuarios puedan iniciar sesión y sincronizar su información entre dispositivos. 🚀🔥
 
 
-Imágenes de la app 
+La imágenes de la app se encuentran en la carpeta AppImg.
+
 
 
 
