@@ -118,9 +118,7 @@
 			name = MovieApp;
 			packageProductDependencies = (
 				36E739FD2D7CF86200E2F570 /* SnapKit */,
-				36E739FF2D7CF86200E2F570 /* SnapKit-Dynamic */,
 				36E73A022D7CF87D00E2F570 /* Alamofire */,
-				36E73A042D7CF87D00E2F570 /* AlamofireDynamic */,
 				36E73A4B2D7CFCEF00E2F570 /* FirebaseAnalytics */,
 				36E73A4D2D7CFCEF00E2F570 /* FirebaseAnalyticsOnDeviceConversion */,
 				36E73A4F2D7CFCEF00E2F570 /* FirebaseAnalyticsWithoutAdIdSupport */,
@@ -425,20 +423,10 @@
 			package = 36E739FC2D7CF86200E2F570 /* XCRemoteSwiftPackageReference "SnapKit" */;
 			productName = SnapKit;
 		};
-		36E739FF2D7CF86200E2F570 /* SnapKit-Dynamic */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 36E739FC2D7CF86200E2F570 /* XCRemoteSwiftPackageReference "SnapKit" */;
-			productName = "SnapKit-Dynamic";
-		};
 		36E73A022D7CF87D00E2F570 /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 36E73A012D7CF87D00E2F570 /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
-		};
-		36E73A042D7CF87D00E2F570 /* AlamofireDynamic */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 36E73A012D7CF87D00E2F570 /* XCRemoteSwiftPackageReference "Alamofire" */;
-			productName = AlamofireDynamic;
 		};
 		36E73A4B2D7CFCEF00E2F570 /* FirebaseAnalytics */ = {
 			isa = XCSwiftPackageProductDependency;
